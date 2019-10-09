@@ -6,7 +6,7 @@ public class JenkinsExample {
      System.out.println("sankar");
      System.out.println("sasi");
      System.out.println("mithun");
-
+ System.out.println("mithun");
  }
 
 }
